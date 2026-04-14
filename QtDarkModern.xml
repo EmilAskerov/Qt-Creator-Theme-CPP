@@ -27,7 +27,7 @@
   <style name="Global" foreground="#9aa7d6"/>
   <style name="Field" foreground="#9373a5"/>
   <style name="Static" foreground="#66a334" italic="true"/>
-  <style name="VirtualMethod" italic="true"/>
+  <style name="VirtualMethod" foreground="#dcd08d" italic="true"/>
   <style name="Function" foreground="#dcd08d"/>
   <style name="Keyword" foreground="#c586c2"/>
   <style name="PrimitiveType" foreground="#569cd6"/>
@@ -35,8 +35,9 @@
   <style name="Overloaded Operator"/>
   <style name="Punctuation" foreground="#e676d6"/>
   <style name="Preprocessor" foreground="#c586c2"/>
-  <style name="Macro"/>
+  <style name="Macro" foreground="#569ccb"/>
   <style name="Label" foreground="#d6c540"/>
+  <style name="Attribute" foreground="#808000"/>
   <style name="Comment" foreground="#6a9955"/>
   <style name="Doxygen.Comment" foreground="#548b49"/>
   <style name="Doxygen.Tag" foreground="#548b49"/>
@@ -69,6 +70,8 @@
   <style name="LogCommitHash" foreground="#ff0000"/>
   <style name="LogCommitSubject" foreground="#d6cf9a"/>
   <style name="LogDecoration" foreground="#ff00ff"/>
+  <style name="Info" underlineColor="#262088" underlineStyle="DashUnderline"/>
+  <style name="InfoContext" underlineColor="#262088" underlineStyle="DotLine"/>
   <style name="Warning" underlineColor="#d6c545" underlineStyle="SingleUnderline"/>
   <style name="WarningContext" underlineColor="#d6c545" underlineStyle="DotLine"/>
   <style name="Error" underlineColor="#d65645" underlineStyle="SingleUnderline"/>

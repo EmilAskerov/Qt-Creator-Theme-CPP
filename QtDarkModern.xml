@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="DarkPlusUltraForQtPhD">
+<style-scheme version="1.0" name="QtDarkModern">
   <style name="Text" foreground="#ffffff" background="#1e1e1e"/>
   <style name="Link" foreground="#537639"/>
   <style name="Selection" background="#264f78"/>

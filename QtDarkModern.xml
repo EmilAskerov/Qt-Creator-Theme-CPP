@@ -23,7 +23,7 @@
   <style name="Concept" foreground="#ff8080"/>
   <style name="Namespace" foreground="#4ec9b0"/>
   <style name="Local" foreground="#95dbfd"/>
-  <style name="Parameter" foreground="#9a9a9a"/>
+  <style name="Parameter" foreground="#95dbfd"/>
   <style name="Global" foreground="#9aa7d6"/>
   <style name="Field" foreground="#9373a5"/>
   <style name="Static" foreground="#66a334" italic="true"/>
@@ -31,7 +31,7 @@
   <style name="Function" foreground="#dcd08d"/>
   <style name="Keyword" foreground="#c586c2"/>
   <style name="PrimitiveType" foreground="#569cd6"/>
-  <style name="Operator" foreground="#dcd08d"/>
+  <style name="Operator" foreground="#cccccc"/>
   <style name="Overloaded Operator"/>
   <style name="Punctuation" foreground="#e676d6"/>
   <style name="Preprocessor" foreground="#c586c2"/>
